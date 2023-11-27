@@ -17,8 +17,8 @@ dependencies:
 
 devDependencies:
   '@iconify-json/uim':
-    specifier: ^1.1.6
-    version: 1.1.6
+    specifier: ^1.1.7
+    version: 1.1.7
 
 packages:
 
@@ -563,8 +563,8 @@ packages:
       '@iconify/types': 2.0.0
     dev: false
 
-  /@iconify-json/uim@1.1.6:
-    resolution: {integrity: sha512-d9egjzVLmd3TCC6OGy5UnZMqR8uPslAFWoe+EU0YkAX67MnbKovOsDVmk96kDmylNE+uVfHhmxy8vb+NC07Aqg==}
+  /@iconify-json/uim@1.1.7:
+    resolution: {integrity: sha512-CMALpv8/EMZ//5ADSqBgN4L+mkj+MJ9n0VdBhZICp3snCBwtGHWfrZHZltPSJ8OnDj8lKDoGEMZnPcuPaMgcpA==}
     dependencies:
       '@iconify/types': 2.0.0
     dev: true
