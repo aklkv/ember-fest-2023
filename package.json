@@ -12,6 +12,6 @@
     "slidev-theme-academic": "^1.1.3"
   },
   "devDependencies": {
-    "@iconify-json/uim": "^1.1.6"
+    "@iconify-json/uim": "^1.1.9"
   }
 }
